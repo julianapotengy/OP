@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\GradiusProject\Gradius0.1\Assets\Scripts\Enemys\Enemy1.cs">
+    <Files>
+      <File FileName="..\..\GradiusProject\Gradius0.1\Assets\Scripts\Bullets\EnemyBullet.cs" Line="12" Column="3" />
+      <File FileName="..\..\GradiusProject\Gradius0.1\Assets\Scripts\Player\spaceshipShoot.cs" Line="40" Column="30" />
+      <File FileName="..\..\GradiusProject\Gradius0.1\Assets\Scripts\Enemys\Enemy1.cs" Line="15" Column="23" />
+      <File FileName="..\..\GradiusProject\Gradius0.1\Assets\Scripts\Enemys\EnemyShoot.cs" Line="31" Column="39" />
+      <File FileName="..\..\GradiusProject\Gradius0.1\Assets\Scripts\Bullets\spaceshipBullet.cs" Line="13" Column="3" />
+      <File FileName="..\..\GradiusProject\Gradius0.1\Assets\Scripts\Player\Player.cs" Line="31" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
